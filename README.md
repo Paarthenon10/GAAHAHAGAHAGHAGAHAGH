@@ -1,2 +1,2 @@
-# GAAHAHAGAHAGHAGAHAGH
-Skeppy's llama who he thought was a donkey
+# synchronousBallMovement
+Ball moving synchronously
